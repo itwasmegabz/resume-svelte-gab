@@ -1,0 +1,200 @@
+{
+  "basics": {
+      "name": "Gabriel Zerguit",
+      "role": "Founder of GrailCavern.com",
+      "email": "gabriel@grailcavern.com",
+      "location": {
+          "city": "Neuilly-sur-Seine",
+          "countryCode": "FR",
+          "icon": {
+              "vue": "fi-fr",
+              "svelte": "flag:fr-4x3"
+          }
+      },
+      "profiles": [
+          {
+              "network": "LinkedIn",
+              "icon": {
+                  "vue": "bi-linkedin",
+                  "svelte": "bi:linkedin"
+              },
+              "url": "https://linkedin.com/in/gabrielzerguit"
+          }
+      ],
+      "url": "https://grailcavern.com"
+  },
+  "skills": {
+      "languages": {
+          "primary": ["Python", "HTML", "CSS"],
+          "secondary": ["Django", "MS Office", "PowerPoint", "Excel"],
+          "tertiary": ["LATEX"]
+      },
+      "frameworks": {
+          "primary": ["Django"],
+          "secondary": ["None"],
+          "tertiary": ["None"]
+      },
+      "tools": {
+          "primary": ["Git", "JIRA", "Confluence", "Teams"],
+          "secondary": ["MS Office"],
+          "tertiary": ["None"]
+      }
+  },
+  "work": [
+      {
+          "id": 2,
+          "name": "Vinci Concessions",
+          "position": "M&A Analyst Intern",
+          "startDate": "Aug. 2023",
+          "endDate": "Jan. 2024",
+          "highlights": [
+              "Collaborated with top management to implement corporate strategy through targeted acquisitions and greenfield projects.",
+              "Identified and evaluated new opportunities, conducting preliminary strategic analyses in tandem with Project Directors.",
+              "Engaged in project collaborations with both internal and external industrial partners, as well as financial stakeholders. Developed robust implementation cases and structured strategic partnerships effectively.",
+              "Provided comprehensive support to Project Managers and Directors across various project facets – from strategic and financial to operational and legal dimensions."
+          ],
+          "color": "#fcb654"
+      },
+      {
+          "id": 1,
+          "name": "KShuttle",
+          "position": "Consulting Intern",
+          "startDate": "Nov. 2022",
+          "highlights": [
+              "Assisted the Director of Consulting and worked closely with a team of consultants to provide strategic solutions for clients in their digital transformation."
+          ],
+          "color": "#93186c"
+      },
+      {
+          "id": 0,
+          "name": "GrailCavern.com",
+          "position": "Founder",
+          "startDate": "Mar. 2020",
+          "endDate": "Present",
+          "highlights": [
+              "As the founder of GrailCavern.com in Paris, France, I played a crucial role in the development and success of a marketplace for reselling collectible toys. The platform has garnered over 80,000 monthly visits and nearly $200,000 in transactions since its inception."
+          ],
+          "color": "#93186c"
+      }
+  ],
+  "education": [
+      {
+          "institution": "ESSEC Business School",
+          "studyType": "Master in Management",
+          "startDate": "Aug. 2022",
+          "endDate": "2025",
+          "location": "Cergy, France",
+          "courses": [
+              "Advanced Mathematics, Python Programming, Physics as part of a dual degree program with Grande Ecole CentraleSupélec",
+              "Corporate Finance",
+              "Financial Modeling and Accounting",
+              "Business Valuation",
+              "Business Law/Corporate Law"
+          ]
+      },
+      {
+          "institution": "Intégrale : Institut d’enseignement supérieur privé",
+          "studyType": "Preparatory classes dedicated to national competitive entrance exams",
+          "startDate": "Aug. 2019",
+          "endDate": "Aug. 2022",
+          "location": "Paris, France",
+          "highlights": [
+              "Co-admitted to ENS-Paris-Saclay (ranked 7th among all candidates) and ESSEC Business School for the year 2022"
+          ]
+      },
+      {
+          "institution": "Auckland Grammar School",
+          "studyType": "International Student",
+          "startDate": "Jul 2018",
+          "endDate": "Dec. 2018",
+          "location": "Auckland, New Zealand",
+          "highlights": [
+              "Received a $15,000 ’Follow the Kiwi’ scholarship for pursuing studies in New Zealand"
+          ]
+      }
+  ],
+  "projects": [
+      {
+          "name": "GrailCavern.com",
+          "url": "https://grailcavern.com",
+          "description": "A marketplace for reselling collectible toys, garnering over 80,000 monthly visits and nearly $200,000 in transactions since its inception."
+      }
+  ],
+  "volunteer": [
+      {
+          "position": "Active Member",
+          "organization": "Tech ESSEC",
+          "startDate": "Nov. 2022",
+          "endDate": "Present",
+          "location": "Paris, France",
+          "highlights": [
+              "Contributed to the development of the Salmon-AI project, a finalist in the prestigious ’EY Assos Award’ and awarded 1,000 euros by Alten. This project employs AI to supplant traditional fish counting methods like electrofishing, making it non-invasive and safer for the fish."
+          ]
+      },
+      {
+          "position": "Active Member",
+          "organization": "ESSEC Africa Society",
+          "startDate": "Oct. 2022",
+          "endDate": "Present",
+          "location": "Paris, France",
+          "highlights": [
+              "Consulting for small African companies.",
+              "Organizing round-table discussions with influential African leaders.",
+              "Seeking partnerships with businesses and universities."
+          ]
+      },
+      {
+          "position": "Volunteer",
+          "organization": "Les Fermes d’Espoir CFDJ",
+          "startDate": "Oct. 2022",
+          "endDate": "Nov. 2022",
+          "location": "Paris, France",
+          "highlights": [
+              "Assisted in Les Fermes d’Espoir CFDJ’s relocation and developed partnerships in Paris, while facilitating youth reintegration through community service and cultural exposure."
+          ]
+      }
+  ],
+  "interests": [
+      {
+          "name": "Programming"
+      },
+      {
+          "name": "Music"
+      },
+      {
+          "name": "Composition"
+      },
+      {
+          "name": "Writing"
+      },
+      {
+          "name": "Painting"
+      },
+      {
+          "name": "Videography"
+      }
+  ],
+  "awards": [],
+  "languages": [
+      {
+          "language": "French",
+          "fluency": "Fluent"
+      },
+      {
+          "language": "English",
+          "fluency": "Fluent"
+      },
+      {
+          "language": "German",
+          "fluency": "Fluent"
+      },
+      {
+          "language": "Arabic",
+          "fluency": "Fluent"
+      },
+      {
+          "language": "Chinese",
+          "fluency": "Fluent"
+      }
+  ]
+}

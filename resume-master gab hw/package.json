@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "homepage": "https://github.com/itwasmegabz/resume-svelte-gab.git",
+  "private": false,
+  "dependencies": {
+    "gh-pages": "^6",
+    "sloc": "^0.3.0"
+  },
+  "scripts": {
+    "build:svelte": "cd ./svelte & npm run build",
+    "build:vue": "cd ./vue & npm run build",
+    "predeploy": "npm run build:vue & npm run build:svelte",
+    "deploy": "gh-pages -d ./vue/dist -e /vue & gh-pages -d ./svelte/dist -e /svelte"
+  }
+}
